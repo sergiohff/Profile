@@ -15,8 +15,8 @@
 ### Formação Complementar
 
 ##### 1. Neural Networks and Deep Learning (Carga horária: 40h). DeepLearning.ai - Coursera.
-##### 1. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Carga horária: 30h). DeepLearning.ai - Coursera.
-##### 1. Structuring Machine Learning Projects (Carga horária: 18h). DeepLearning.ai - Coursera.
-##### 1. Convolutional Neural Networks (Carga horária: 40h). DeepLearning.ai - Coursera.
-##### 1. Deselvolvimento C#. (Carga horária: 160h). Unicesumar, UNICESUMAR, Brasil.
-##### 1. Deselvolvimento Delphi. (Carga horária: 160h). Unicesumar, UNICESUMAR, Brasil. 
+##### 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization (Carga horária: 30h). DeepLearning.ai - Coursera.
+##### 3. Structuring Machine Learning Projects (Carga horária: 18h). DeepLearning.ai - Coursera.
+##### 4. Convolutional Neural Networks (Carga horária: 40h). DeepLearning.ai - Coursera.
+##### 5. Deselvolvimento C#. (Carga horária: 160h). Unicesumar, UNICESUMAR, Brasil.
+##### 6. Deselvolvimento Delphi. (Carga horária: 160h). Unicesumar, UNICESUMAR, Brasil. 
