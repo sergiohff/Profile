@@ -1,4 +1,4 @@
-# Profile
+# Mini CV
 
 ## Sergio Lemos Hermsdorff
 
