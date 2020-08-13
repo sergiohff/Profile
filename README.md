@@ -7,6 +7,7 @@
 #### * Especialização em andamento em Inteligência artificial aplicado à indústrias - SENAI-FIEP (Residência em Inteligência Artificial)
 
 #### * Mestrado em andamento em Ciência da Computação - Universidade Estadual de Maringá, UEM, Brasil. 
+  ###### Linha: Inteligência Computacional
   ###### Pesquisa: Título: CONTROLE DE FORMAÇÃO DE ROBÔS MÓVEIS COM RODAS UTILIZANDO REDES NEURAIS ARTIFICIAIS E APRENDIZADO POR REFORÇO NA SOLUÇÃO DO FENÔMENO CHATTERING.
 
 #### * Graduação em Engenharia Elétrica. - Universidade Estadual de Maringá, UEM, Brasil. 
