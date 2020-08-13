@@ -5,7 +5,10 @@
 ### Formação Acadêmica
 
 #### * Especialização em andamento em Inteligência artificial aplicado à indústrias - SENAI-FIEP (Residência em Inteligência Artificial)
+
 #### * Mestrado em andamento em Ciência da Computação - Universidade Estadual de Maringá, UEM, Brasil. 
+##### Pesquisa: Título: CONTROLE DE FORMAÇÃO DE ROBÔS MÓVEIS COM RODAS UTILIZANDO REDES NEURAIS ARTIFICIAIS E APRENDIZADO POR REFORÇO NA SOLUÇÃO DO FENÔMENO CHATTERING.
+
 #### * Graduação em Engenharia Elétrica. - Universidade Estadual de Maringá, UEM, Brasil. 
 ##### Pesquisa: Título: CONTROLE DE TRAJETÓRIA DE ROBÔS MÓVEIS COM RODAS: ESTUDO E SIMULAÇÃO SOBRE A UTILIZAÇÃO DE UM COMPENSADOR NEURAL PARA SOLUÇÃO DO FENÔMENO CHATTERING.
 
